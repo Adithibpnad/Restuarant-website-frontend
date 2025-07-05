@@ -1,7 +1,39 @@
-HTML Structure: The HTML code provides the structure of the webpage. It includes several sections such as ‘Home’, ‘About’, ‘Menu’, and others. Each section is represented by a div or section element with a unique id, which allows these sections to be linked from the navigation menu.
-Head Section: In the <head> section, you’ve included meta tags for character encoding, viewport settings, and IE compatibility. You’ve also linked to an external CSS file (styles.css) for styling the webpage, and an external CSS library (Font Awesome) for icons.
-Navigation Menu: The navigation menu is created using an unordered list (<ul>), with each list item (<li>) containing a link (<a>) to a different section of the webpage. The navigation menu also includes a logo image and icons.
-Main Section: The main section includes a heading, an image, a paragraph of text, and a button. This section appears to be a hero or banner section, which typically includes a large, attention-grabbing image and a small amount of important content.
-About Section: The ‘About’ section includes an image, a heading, a subheading, and a paragraph of text. This section appears to provide information about the restaurant.
-Menu Section: The ‘Menu’ section includes a heading and a series of ‘cards’ for each menu item. Each card includes an image, an icon, a heading, and a paragraph of text.
-CSS: While the CSS is not included in this code, it’s referenced via a link to ‘styles.css’. The CSS would provide the visual styling for the webpage, including layout, colors, fonts, etc.
+# Restaurant Website Frontend
+
+Welcome to the **Restaurant Website Frontend** project! This repository contains the frontend code for a modern, responsive restaurant website.
+
+## 🍽️ Project Overview
+
+This project provides a visually appealing and user-friendly website template for restaurants, cafes, or food businesses. Designed with HTML and CSS, it is fully customizable and easy to deploy.
+
+## ✨ Features
+
+- Responsive design for all devices
+- Clean and elegant layout
+- Menu showcase section
+- Contact and reservation forms (HTML/CSS)
+- Gallery and testimonials
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+
+## 📂 Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Adithibpnad/Restuarant-website-frontend.git
+   ```
+2. Open `index.html` in your web browser.
+3. Customize content and styles as needed for your restaurant.
+
+## 📸 Demo
+
+> _Add screenshots or a link to a live demo here!_
+
+## 📝 License
+
+This project is open-sourced under the MIT License.
+
+---
